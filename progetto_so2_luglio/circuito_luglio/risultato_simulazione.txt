@@ -1,0 +1,21 @@
+==================================================
+          RISULTATO DELLA SIMULAZIONE  
+==================================================
+Numero thread utilizzati: 5
+Dimensione dello stato (2^n): 4
+Numero di qubit: 2
+Numero di porte applicate: 2
+Ripetizioni misurazione: 100
+--------------------------------------------------
+Stato finale del vettore (Ampiezze di probabilita):
+Stato [0]: 0.5000 + i(0.0000)
+Stato [1]: 0.5000 + i(0.0000)
+Stato [2]: 0.5000 + i(0.0000)
+Stato [3]: 0.5000 + i(0.0000)
+--------------------------------------------------
+Risultati della misurazione (100 ripetizioni):
+00 (indice 0): 26 volte (frequenza 0.2600)
+01 (indice 1): 22 volte (frequenza 0.2200)
+10 (indice 2): 27 volte (frequenza 0.2700)
+11 (indice 3): 25 volte (frequenza 0.2500)
+==================================================
